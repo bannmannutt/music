@@ -3,5 +3,6 @@ literally just my musical stuff I've made. It's basically open-source and public
 
 # extra info
 
-.mmpz files are for lmms, .sequence files are for onlinesequencer
+.mmpz files are for lmms, .sequence files are for onlinesequencer.
+
 files are only for the sequences, and do not contain the instruments used in the songs.
